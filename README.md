@@ -1,2 +1,2 @@
 # FloodDetection
-Melakukan analisis deteksi banjir menggunakan citra sentinel-1. Tujuannya agar dapat melihat kejadian banjir secara spasial tiap bulan dan seberapa luas banjir menggenang di suatu wilayah.
+Conducting flood detection analysis using Sentinel-1 imagery. The goal is to observe flood events spatially on a monthly basis and determine the extent of inundation in a given area.
